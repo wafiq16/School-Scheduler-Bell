@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+  MyForm1.cpp
+  Generating Code...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+LINK : fatal error LNK1561: entry point must be defined
